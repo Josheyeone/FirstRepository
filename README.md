@@ -1,2 +1,1 @@
 # FirstRepository
-sigma
